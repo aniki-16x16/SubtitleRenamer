@@ -1,0 +1,8 @@
+{
+  "name": "Subtitle Renamer",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.1.0"
+  }
+}
